@@ -1,0 +1,12 @@
+{
+  "name": "webhook-load-test",
+  "version": "1.0.0",
+  "description": "Load testing script",
+  "main": "load-test.js",
+  "scripts": {
+    "start": "node load-test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
